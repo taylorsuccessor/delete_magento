@@ -1,5 +1,5 @@
 {
-  "name": "magento/theme-frontend-luma",
+  "name": "frontend/Magento/myTheme",
   "description": "N/A",
   "require": {
     "php": "~5.5.0|~5.6.0|~7.0.0",
